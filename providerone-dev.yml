@@ -9,4 +9,4 @@ mybatis:
   mapper-locations: classpath:mapper/*.xml
   type-aliases-package: com.xiaoli.providerone.entity
 
-xiaoli: DDDLLLkkk
+xiaoli: DDDLLLkkkfff
